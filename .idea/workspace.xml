@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8e2ddd3-225d-4222-a7e5-5b7442c23640" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1IDA_JAVA_SAUNDERS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/Exos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/ferry/AppFerry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/ferry/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/ferry/Camion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/ferry/Couloir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/ferry/Ferry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/ferry/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/ferry/Parking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/ferry/ParkingExterieur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/ferry/Vehicule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/ferry/Voiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/file/FileAttente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/file/FileAttenteGenerique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/triplet/FirstComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/triplet/SecondComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/triplet/ThirdComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/triplet/TripletTypesDifferents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_3/triplet/TripletUnType.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2em1p4rgh6lDznNJjiljgZdDVr5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gabri/IdeaProjects/M1IDA_JAVA_SAUNDERS/src/TP_3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gabri/IdeaProjects/M1IDA_JAVA_SAUNDERS/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\IdeaProjects\M1IDA_JAVA_SAUNDERS\src\TP_3" />
+      <recent name="C:\Users\gabri\IdeaProjects\M1IDA_JAVA_SAUNDERS\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\IdeaProjects\M1IDA_JAVA_SAUNDERS\src\tp3" />
+      <recent name="C:\Users\gabri\IdeaProjects\M1IDA_JAVA_SAUNDERS\src" />
+      <recent name="C:\Users\gabri\IdeaProjects\M1IDA_JAVA_SAUNDERS\src\TP_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BD">
+    <configuration name="BD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tp5.dao.BD" />
+      <module name="M1IDA_JAVA_SAUNDERS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp5.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TP_1.Exos" />
+      <module name="M1IDA_JAVA_SAUNDERS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TP_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileAttenteGenerique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TP_3.file.FileAttenteGenerique" />
+      <module name="M1IDA_JAVA_SAUNDERS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TP_3.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TripletTypesDifferents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TP_3.triplet.TripletTypesDifferents" />
+      <module name="M1IDA_JAVA_SAUNDERS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TP_3.triplet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TripletUnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TP_3.triplet.TripletUnType" />
+      <module name="M1IDA_JAVA_SAUNDERS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TP_3.triplet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BD" />
+        <item itemvalue="Application.Exos" />
+        <item itemvalue="Application.FileAttenteGenerique" />
+        <item itemvalue="Application.TripletTypesDifferents" />
+        <item itemvalue="Application.TripletUnType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8e2ddd3-225d-4222-a7e5-5b7442c23640" name="Changes" comment="" />
+      <created>1712495122750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712495122750</updated>
+      <workItem from="1712495123839" duration="32292000" />
+      <workItem from="1716248946044" duration="5087000" />
+      <workItem from="1716898797832" duration="40000" />
+      <workItem from="1717506092529" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TP_3/file/FileAttenteGenerique.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
